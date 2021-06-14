@@ -4,7 +4,7 @@
       <h1>胡建红</h1>
       <p>博客：https://blog.csdn.net/qq_40081941</p>
       <p>Leetcode：https://leetcode.com/hujianhong</p>
-      <p>邮箱：hujianhong2020@163.com></p>
+      <p>邮箱：hujianhong2020@163.com</p>
     </td>
     <td width="25%">
       <img src="/me_work.jpg" width="100%"> 

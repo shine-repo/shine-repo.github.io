@@ -2,8 +2,6 @@
   <tr>
     <td width="75%">
       <h1>胡建红</h1>
-      <p><b>学历：本科</b></p>
-      <p><b>专业：计算机科学与技术</b></p>
       <p><b>博客：https://blog.csdn.net/qq_40081941</b></p>
       <p><b>Leetcode：https://leetcode.com/hujianhong/</b></p>
       <p><b>邮箱：hujianhong2020@163.com</b></p>
@@ -14,6 +12,12 @@
   </tr>
 </table>
 <table border="0">
+   <tr>
+     <h1>教育背景</h1>
+     <p><b>昆明理工大学</b></p>
+     <p><b>计算机科学与技术（本科）</b></p>
+     <p><b>主修数据结构与算法、计算机组成原理、计算机操作系统、计算机网络等课程；</b></p>
+  </tr>
   <tr>
      <h1>专业技能</h1>
      <p><b>Java、JVM</b></p>
